@@ -1,4 +1,4 @@
-# Neuro-Symbolic-
+# Neuro-Symbolic-GRAPHFUSION SENTIMENT ANALYZER
 
 Opinion mining and sentiment propagation involve analyzing emotions and opinions from text. This project focuses on developing models
 for sentiment analysis and tracking sentiment spread. It aims to enhance
